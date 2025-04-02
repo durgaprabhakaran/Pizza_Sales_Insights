@@ -15,22 +15,22 @@ Overall Business Performance:
 The revenue and sales figures indicate strong business performance, with a healthy average order value suggesting a high customer spending pattern.
 
 ### 3. Sales Trends Analysis
-Daily Sales Trend
-  •	The highest sales were recorded on Friday (86K orders), followed by Saturday and Thursday, while the lowest sales were observed on Sunday.
-  •	This suggests an opportunity to implement promotional strategies to increase sales on low-performing days.
-Hourly Sales Trend
-  •	The peak sales occur between 10 AM – 2 PM and 5 PM – 8 PM, indicating prime business hours.
-  •	A drop in sales is observed late at night and early morning, which aligns with typical restaurant business patterns.
+Daily Sales Trend:
+- The highest sales were recorded on Friday (86K orders), followed by Saturday and Thursday, while the lowest sales were observed on Sunday.
+- This suggests an opportunity to implement promotional strategies to increase sales on low-performing days.
+Hourly Sales Trend:
+- The peak sales occur between 10 AM – 2 PM and 5 PM – 8 PM, indicating prime business hours.
+- A drop in sales is observed late at night and early morning, which aligns with typical restaurant business patterns.
 
 ### 4. Category & Size-Based Sales Analysis
-Sales by Category
-  •	The revenue contribution is Classic (23.68%), Supreme (26.91%), Chicken (23.96%), and Veggie (25.46%).
-  •	Supreme pizzas generate the highest revenue, indicating strong customer preference.
-Sales by Pizza Size
-  •	Regular-sized pizzas contribute 45.89% of total revenue, followed by Medium (30.49%), X-Large (21.77%), and XX-Large (1.72%).
-  •	This highlights the popularity of mid-sized options, aligning with average consumer preferences.
-Total Pizzas Ordered by Category
-  •	Classic pizzas lead with 14.9K orders, followed by Supreme (12K orders), Veggie (11.6K orders), and Chicken (11.1K orders).
+Sales by Category:
+- The revenue contribution is Classic (23.68%), Supreme (26.91%), Chicken (23.96%), and Veggie (25.46%).
+- Supreme pizzas generate the highest revenue, indicating strong customer preference.
+Sales by Pizza Size:
+- Regular-sized pizzas contribute 45.89% of total revenue, followed by Medium (30.49%), X-Large (21.77%), and XX-Large (1.72%).
+- This highlights the popularity of mid-sized options, aligning with average consumer preferences.
+Total Pizzas Ordered by Category:
+- Classic pizzas lead with 14.9K orders, followed by Supreme (12K orders), Veggie (11.6K orders), and Chicken (11.1K orders).
 
 ### 5. Product Performance
 Best-Selling Pizzas
@@ -47,10 +47,10 @@ Poor-Selling Pizzas
   •	The lower sales figures suggest a need for promotional strategies, menu redesign, or recipe adjustments to boost performance.
 
 ### 6. Recommendations & Business Insights
-• Optimize Pricing & Promotions: Leverage data-driven insights to introduce targeted promotions, particularly on low-sales days like Sundays.
-• Inventory Management: Regular pizzas dominate sales, requiring a focus on managing stock levels efficiently.
-• Product Strategy: Improve visibility and marketing for underperforming pizzas, potentially through special deals or revised recipes.
-• Operational Efficiency: Align staff scheduling with peak sales hours to ensure smooth operations and enhanced customer service.
+- Optimize Pricing & Promotions: Leverage data-driven insights to introduce targeted promotions, particularly on low-sales days like Sundays.
+- Inventory Management: Regular pizzas dominate sales, requiring a focus on managing stock levels efficiently.
+- Product Strategy: Improve visibility and marketing for underperforming pizzas, potentially through special deals or revised recipes.
+- Operational Efficiency: Align staff scheduling with peak sales hours to ensure smooth operations and enhanced customer service.
 
 ### 7. Conclusion
 The data-driven insights reveal strong business performance with opportunities for further optimization. Implementing strategic pricing, inventory control, and marketing initiatives can enhance profitability and customer satisfaction.
