@@ -38,13 +38,13 @@ Best-Selling Pizzas:
 2. The Vegetables – 1.5K units
 3. The Calabrese Pizza – 1.4K units
 4. The Spinach Pesto Pizza – 1K units
-   **Conclusion: Thai Chicken Pizza outperforms other varieties, indicating high customer demand.**
+**Conclusion: Thai Chicken Pizza outperforms other varieties, indicating high customer demand.**
 Poor-Selling Pizzas:
 1. The Brie Carre Pizza – 490 units
 2. The Mediterranean – 934 units
 3. The Calabrese Pizza – 937 units
 4. The Soppressata Pizza – 961 units
-   **Conclusion: The lower sales figures suggest a need for promotional strategies, menu redesign, or recipe adjustments to boost performance.**
+**Conclusion: The lower sales figures suggest a need for promotional strategies, menu redesign, or recipe adjustments to boost performance.**
 
 ### 6. Recommendations & Business Insights
 - Optimize Pricing & Promotions: Leverage data-driven insights to introduce targeted promotions, particularly on low-sales days like Sundays.
